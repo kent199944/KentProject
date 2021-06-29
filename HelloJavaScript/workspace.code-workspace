@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../HelloHTML"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "HelloJavaScript"
+	}
+}
